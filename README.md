@@ -1,2 +1,1 @@
-# Light-Darkmode-iGem
-Light and dark mode combined
+# Darkmode-iGem
