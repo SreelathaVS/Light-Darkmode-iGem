@@ -28,6 +28,8 @@ function darkModeFunc() {
         overlapName.innerHTML = "PROJECT NAME";
         darkModeToggler.innerHTML = "Light Mode";
         document.querySelector('.main img').src = "darkmode-bg.png";
+        document.querySelector('.section-4 img').src='silicon-img.png';
+        document.querySelector('.section-5 img').src='reaction-img.png';
     }
 }
 function startBlink(button) {
