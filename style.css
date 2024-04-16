@@ -327,3 +327,7 @@ footer {
 .theme-btn {
     margin-right: 6%;
 }
+.nav__text {
+  font-weight: 700;
+}
+
