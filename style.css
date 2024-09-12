@@ -24,10 +24,12 @@ body {
     
   }
   
-  .dropdown:hover .dropdown-content {
-    text-align: center;
+  .dropdown:after .dropdown-content {
     display: block;
-    max-width: fit-content;
+  }
+  .dropdown-content{
+        max-width: fit-content;
+        text-align: center;
   }
   .dropdown-content a:hover {background-color: #f1f1f1;}
 .space {
@@ -187,7 +189,7 @@ footer {
         bottom: 200px;
     }
     .dropdown-content{
-        margin-left: 30.5%; 
+        margin-left: 35.5%; 
     }
     .dropdown-item{
         font-size: 0.8rem;
@@ -215,7 +217,7 @@ footer {
         bottom: 250px;
     }
     .dropdown-content{
-        margin-left: 35.5%; 
+        margin-left: 39.5%; 
     }
     .dropdown-item{
         font-size: 0.9rem;
